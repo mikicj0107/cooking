@@ -1,5 +1,5 @@
 # 未来の料理
-アプリURL　mikicj0107.github.io/cooking/
+アプリURL　https://mikicj0107.github.io/cooking/
 
 ## 概要
 「未来の○○」をテーマにしたオブジェクト作品です。大学1年次の授業最終課題です。
